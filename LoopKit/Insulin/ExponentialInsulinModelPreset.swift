@@ -25,7 +25,7 @@ extension ExponentialInsulinModelPreset {
         case .rapidActingChild:
             return .minutes(360)
         case .fiasp:
-            return .minutes(360)
+            return .minutes(540)
         case .lyumjev:
             return .minutes(360)
         case .afrezza:
